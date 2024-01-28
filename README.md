@@ -1,3 +1,7 @@
+## visite my website 
+https://spotify-clone-2-0-plum.vercel.app/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -34,3 +38,13 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Having a look
+![image](https://github.com/swastik-raj-vansh-singh/Spotify-clone-2.0/assets/95278835/f3b70a69-e50f-446f-94e7-ecc4dba8c7b2)
+
+![image](https://github.com/swastik-raj-vansh-singh/Spotify-clone-2.0/assets/95278835/757ffdea-0165-4a3f-89b3-6b69f9281f27)
+
+![image](https://github.com/swastik-raj-vansh-singh/Spotify-clone-2.0/assets/95278835/9b697a96-7115-43e7-b9db-8fdb576ce9cf)
+
+![image](https://github.com/swastik-raj-vansh-singh/Spotify-clone-2.0/assets/95278835/eafd9b71-cfdf-489a-aef4-81aad1ef8d6e)
+
